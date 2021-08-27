@@ -64,9 +64,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Completed courses: Introduction to Engineering and Design I, II, and Object Oriented Programming in C#.
   
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Belmont High School
         caption: 2017 - 2019

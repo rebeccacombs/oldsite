@@ -9,7 +9,7 @@ version: 2
 name: Rebecca Combs
 title: Duke CS Major  
 email: rdc47@duke.edu
-website: www.github.com/rebeccacombs/rebeccacombs.github.io
+# website: www.github.com/rebeccacombs/rebeccacombs.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false

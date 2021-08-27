@@ -102,13 +102,25 @@ content:
         title: Biogen
         link: https://www.biogen.com/en_us/community-lab.html
          link_text: biogencommunitylab.com
-        sub_title: Senior Network System Administrator
-        caption: Wet-lab biologist
+        sub_title: Wet-lab biologist
+        caption: June 2018
         quote: >
           Located in Cambridge, Massachusetts.
         description: | # this will include new lines to allow paragraphs
             Applied PCR to A.victoria jellyfish blue fluorescent protein (BFP) cDNA for site-directed mutagenesis (Y66H). Modification turned BFP to green fluorescent protein (GFP). Performed bacteria transformation, gel electrophoresis (agarose and PAGE), chemiluminescence, and spectrophotometry. Used for cell visualization. 
             Lab Director: Dr. Alazar Ayele
+
+      - layout: left
+        title: BioBuilder Biology Research Epicenter 
+        link: https://biobuilder.org/
+         link_text: biobuilder.com
+        sub_title: Wet-lab biologist
+        caption: February 2020
+        quote: >
+          Located in Cambridge, Massachusetts.
+        description: | # this will include new lines to allow paragraphs
+            Applied PCR to S.cerevisiae yeast DNA. Identified colonies with β-carotene producing gene (crtYB). Applied restriction digest and gel electrophoresis. Used to identify yeast culture that fortifies bread with Vitamin A. 
+            Lab Director: Dr. Vivek Bajaj     
   
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)

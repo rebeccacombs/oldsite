@@ -1,5 +1,6 @@
 # Site
 repository: rebeccacombs/rebeccacombs.github.io
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -18,7 +19,7 @@ linkedin_username: rebecca-combs-b347211b5
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Duke Universtiy undergraduate. Computer science and biology researcher. Community volunteer. Amateur sailor and musician.
 

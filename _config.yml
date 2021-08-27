@@ -23,12 +23,6 @@ about_content: | # this will include new lines to allow paragraphs
   Duke Universtiy undergraduate. Computer science and biology researcher. Community volunteer. Amateur sailor and musician.
 
 content:
-
-  - title: Computer Skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Github, Python, Java, C#, HTML, R, Flask, STREAM, Jupyter Notebooks, Excel/Google Sheets. 
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -117,7 +111,7 @@ content:
   - title: Leadership Positions # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: "FIRST Robotics Competition Club Team #6731"
         sub_title: Team Captain
         caption: 2019 - 2020 
@@ -126,6 +120,11 @@ content:
         title: "MIT Museum"
         sub_title: Teen Programming Council Member
         caption: 2017 - 2019 
+  
+  - title: Computer Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Github, Python, Java, C#, HTML, R, Flask, STREAM, Jupyter Notebooks, Excel/Google Sheets. 
 
   - title: Academic and Professional Honors
     layout: text

@@ -48,9 +48,7 @@ linkedin_username: rebecca-combs-b347211b5
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Computer science and biology researcher. Community volunteer. Amateur sailor and musician.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  ##Computer science and biology researcher. Community volunteer. Amateur sailor and musician.
 
 content:
   - title: Projects # Title for the section

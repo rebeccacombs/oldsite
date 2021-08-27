@@ -1,13 +1,12 @@
 # Site
 repository: rebeccacombs/rebeccacombs.github.io
-favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
 name: Rebecca Combs
-title: Duke CS Major  
+title: Duke CS Major
 email: rdc47@duke.edu
 
 # Dark Mode (true/false/never)
@@ -18,12 +17,13 @@ github_username:  rebeccacombs
 linkedin_username: rebecca-combs-b347211b5
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+# about_title: About Me (Use this to override about section title)
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Duke Universtiy undergraduate. Computer science and biology researcher. Community volunteer. Amateur sailor and musician.
 
 content:
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -35,13 +35,13 @@ content:
           All girls' private school located on 103 Pilgrim Road, Boston, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
           Completed courses: Introduction to Engineering and Design I, II, and Object Oriented Programming in C#.
-  
+
       - layout: left
         title: Belmont High School
         caption: 2017 - 2019
         sub_title: "Cumulative GPA 4.0/4.0"
         quote: >
-          Co-ed public high school located on 221 Concord Avenue, Belmont, Massachusetts.  
+          Co-ed public high school located on 221 Concord Avenue, Belmont, Massachusetts.
 
   - title: Computer Science Research # Title for the section
     layout: list # Type of content section (list/text)
@@ -56,7 +56,7 @@ content:
            Located at Massachusetts General Hospital (MGH) Cancer Center, Harvard University. 
         description: | # this will include new lines to allow paragraphs
             Applied python (pandas) in Jupyter Notebooks, for STREAM analysis of hematopoietic scRNA-seq data. Prepared dataset uploaded to singlecellvr.com 'Kowalczyk et al C57_LTHSC - STREAM - scRNA-seq' in GitHub.  Article under review; Stein, D., Chen, H., Vinyard, M., Qin, Q., Combs, R.D., Zhang, Q., Pinello, L. SinglecellVR: interactive visualization of single-cell data in virtual reality (Computational Genomics, Frontiers in Genetics).
-
+      
       - layout: left
         title: Nancy Kanwisher Lab
         link: https://mcgovern.mit.edu/profile/nancy-kanwisher/
@@ -67,85 +67,101 @@ content:
            Located at the Picower Institute for Learning and Memory, Massachusetts Institute of Technology (MIT). 
         description: | # this will include new lines to allow paragraphs
             Applied HTML and python graphical user interfaces (GUIs) to develop digital oscillator. Web based app can be used for human color memory analysis.
-
- - title: Biology Research # Title for the section
+  
+  - title: Biology Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Biogen
         link: https://www.biogen.com/en_us/community-lab.html
-         link_text: biogencommunitylab.com
+        link_text: biogencommunitylab.com
         sub_title: Wet-lab biologist
         caption: June 2018
         quote: >
-          Located in Cambridge, Massachusetts.
+           Located in Cambridge, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
             Applied PCR to A.victoria jellyfish blue fluorescent protein (BFP) cDNA for site-directed mutagenesis (Y66H). Modification turned BFP to green fluorescent protein (GFP). Performed bacteria transformation, gel electrophoresis (agarose and PAGE), chemiluminescence, and spectrophotometry. Used for cell visualization. 
-            Lab Director: Dr. Alazar Ayele
-
+            Lab Director: Dr. Alazar Ayele          
+ 
       - layout: left
-        title: BioBuilder Biology Research Epicenter 
+        title: BioBuilder Biology Research Epicenter
         link: https://biobuilder.org/
-         link_text: biobuilder.com
+        link_text: biobuilder.org
         sub_title: Wet-lab biologist
         caption: February 2020
         quote: >
-          Located in Cambridge, Massachusetts.
+           Located in Cambridge, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
             Applied PCR to S.cerevisiae yeast DNA. Identified colonies with β-carotene producing gene (crtYB). Applied restriction digest and gel electrophoresis. Used to identify yeast culture that fortifies bread with Vitamin A. 
-            Lab Director: Dr. Vivek Bajaj     
-  
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+            Lab Director: Dr. Vivek Bajaj 
 
-  - title: Experience # Title for the section
+  - title: Community Service # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: MIT Museum
+        link: https://mitmuseum.mit.edu/
+        link_text: mitmuseum.mit.edu
+        sub_title: Teen Programming Council Member
+        caption: September 2017 - May 2019 
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+           Located in Cambridge, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Organized symposia (Science Cafés) for Boston area teens. Delivered opening remarks.
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -154,3 +170,15 @@ sass:
 plugins:
  - jekyll-seo-tag
 
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

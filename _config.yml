@@ -57,7 +57,6 @@ content:
       - layout: left
         title: The Winsor School
         caption: 2019 - 2021
-                 All girls' private school located on 103 Pilgrim Road, Boston, Massachusetts.
         sub_title: "Cumulative GPA 3.9/4.0"
         quote: >
           All girls' private school located on 103 Pilgrim Road, Boston, Massachusetts. 
@@ -67,11 +66,24 @@ content:
       - layout: left
         title: Belmont High School
         caption: 2017 - 2019
-                 All girls' private school located on 103 Pilgrim Road, Boston, Massachusetts.
         sub_title: "Cumulative GPA 4.0/4.0"
         quote: >
           Co-ed public high school located on 221 Concord Avenue, Belmont, Massachusetts.  
 
+  - title: Computer Science Research # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Luca Pinello Lab
+        link: https://main.pinellolab.partners.org/
+        link_text: pinellolab.org
+        sub_title: Data Science Intern
+        caption: June 2020 - Present
+        quote: >
+           Located at Massachusetts General Hospital (MGH) Cancer Center, Harvard University. 
+        description: | # this will include new lines to allow paragraphs
+            Applied python (pandas) in Jupyter Notebooks, for STREAM analysis of hematopoietic scRNA-seq data. Prepared dataset uploaded to singlecellvr.com 'Kowalczyk et al C57_LTHSC - STREAM - scRNA-seq' in GitHub.  Article under review; Stein, D., Chen, H., Vinyard, M., Qin, Q., Combs, R.D., Zhang, Q., Pinello, L. SinglecellVR: interactive visualization of single-cell data in virtual reality (Computational Genomics, Frontiers in Genetics).
+  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:

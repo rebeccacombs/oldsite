@@ -63,12 +63,17 @@ content:
           All girls' private school located on 103 Pilgrim Road, Boston, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
           Completed courses: Introduction to Engineering and Design I, II, and Object Oriented Programming in C#.
+  
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: Belmont High School
         caption: 2017 - 2019
-        sub_title: "Cumulative GPA: "4.0/4.0"
+                 All girls' private school located on 103 Pilgrim Road, Boston, Massachusetts.
+        sub_title: "Cumulative GPA 4.0/4.0"
         quote: >
-        Co-ed public high school located on 221 Concord Avenue, Belmont, Massachusetts. 
+          Co-ed public high school located on 221 Concord Avenue, Belmont, Massachusetts.  
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)

@@ -83,7 +83,18 @@ content:
            Located at Massachusetts General Hospital (MGH) Cancer Center, Harvard University. 
         description: | # this will include new lines to allow paragraphs
             Applied python (pandas) in Jupyter Notebooks, for STREAM analysis of hematopoietic scRNA-seq data. Prepared dataset uploaded to singlecellvr.com 'Kowalczyk et al C57_LTHSC - STREAM - scRNA-seq' in GitHub.  Article under review; Stein, D., Chen, H., Vinyard, M., Qin, Q., Combs, R.D., Zhang, Q., Pinello, L. SinglecellVR: interactive visualization of single-cell data in virtual reality (Computational Genomics, Frontiers in Genetics).
-  
+
+      - layout: left
+        title: Nancy Kanwisher Lab
+        link: https://mcgovern.mit.edu/profile/nancy-kanwisher/
+        link_text: kanwisherlab.org
+        sub_title: Summer Intern
+        caption: May 2018 - August 2018
+        quote: >
+           Located at the Picower Institute for Learning and Memory, Massachusetts Institute of Technology (MIT). 
+        description: | # this will include new lines to allow paragraphs
+            Applied HTML and python graphical user interfaces (GUIs) to develop digital oscillator. Web based app can be used for human color memory analysis.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:

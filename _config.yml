@@ -95,6 +95,21 @@ content:
         description: | # this will include new lines to allow paragraphs
             Applied HTML and python graphical user interfaces (GUIs) to develop digital oscillator. Web based app can be used for human color memory analysis.
 
+ - title: Biology Research # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Biogen
+        link: https://www.biogen.com/en_us/community-lab.html
+         link_text: biogencommunitylab.com
+        sub_title: Senior Network System Administrator
+        caption: Wet-lab biologist
+        quote: >
+          Located in Cambridge, Massachusetts.
+        description: | # this will include new lines to allow paragraphs
+            Applied PCR to A.victoria jellyfish blue fluorescent protein (BFP) cDNA for site-directed mutagenesis (Y66H). Modification turned BFP to green fluorescent protein (GFP). Performed bacteria transformation, gel electrophoresis (agarose and PAGE), chemiluminescence, and spectrophotometry. Used for cell visualization. 
+            Lab Director: Dr. Alazar Ayele
+  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:

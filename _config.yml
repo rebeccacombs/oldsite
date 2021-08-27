@@ -57,12 +57,19 @@ content:
       - layout: left
         title: The Winsor School
         caption: 2019 - 2021
+                 All girls' private school located on 103 Pilgrim Road, Boston, Massachusetts.
         sub_title: "Cumulative GPA 3.9/4.0"
         quote: >
           All girls' private school located on 103 Pilgrim Road, Boston, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
-          Completed courses Introduction to Engineering and Design I, II and Object Oriented Programming in C#. 
-          
+          Completed courses: Introduction to Engineering and Design I, II, and Object Oriented Programming in C#.
+      - layout: left
+        title: Belmont High School
+        caption: 2017 - 2019
+        sub_title: "Cumulative GPA: "4.0/4.0"
+        quote: >
+        Co-ed public high school located on 221 Concord Avenue, Belmont, Massachusetts. 
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:

@@ -24,6 +24,11 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
+  - title: Computer Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Github, Python, Java, C#, HTML, R, Flask, STREAM, Jupyter Notebooks, Excel/Google Sheets. 
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -122,37 +127,24 @@ content:
         sub_title: Teen Programming Council Member
         caption: 2017 - 2019 
 
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+  - title: Academic and Professional Honors
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Reviewer (ad hoc) for Briefings in Bioinformatics (Oxford University Press)
+      Top 1% PSAT (Oct 2019), US College Board
+      2nd Place overall (Mar 2020), NE Regional FIRST Robotics Competition
+      Xerox Creativity Award (Mar 2020), NE Regional FIRST Robotics Competition 
+      Honorable Mention (Jul 2020), NCWIT Award for Inspirations in Computing
+      Old Girls Association Literary Prize (Jun 2017), Miss Edgar's & Cramp's School For Girls 
+
+  - title: Hobbies
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Music (voice, guitar, piano) and sailing (Winsor Varsity Team)
+
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: All Rights Reserved.
 
 # Build settings
 #theme: modern-resume-theme 

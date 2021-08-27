@@ -1,5 +1,5 @@
 # Site
-#repository: rebeccacombs/rebeccacombs.github.io
+repository: rebeccacombs/rebeccacombs.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -153,3 +153,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+

@@ -19,7 +19,7 @@ darkmode: false
 github_username:  rebeccacombs
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: Rebecca Combs
+#facebook_username: Rebecca Combs
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 linkedin_username: Rebecca Combs
@@ -31,12 +31,12 @@ linkedin_username: Rebecca Combs
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: linedin
+  icon: linkedin_username
+  url: https://linkedin.com/in/rebecca-combs-b347211b5
+#- title: facebook
+  #icon: facebook_username
+ # url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting

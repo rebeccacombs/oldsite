@@ -22,7 +22,7 @@ github_username:  rebeccacombs
 #facebook_username: Rebecca Combs
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: Rebecca Combs
+linkedin_username: rebecca-combs-b347211b5
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: Rebecca Combs
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: linedin
-  icon: linkedin_username
-  url: https://linkedin.com/in/rebecca-combs-b347211b5
+#additional_links:
+#- title: linedin
+  #icon: linkedin_username
+  #url: https://linkedin.com/in/rebecca-combs-b347211b5
 #- title: facebook
   #icon: facebook_username
  # url: Link url (eg. https://google.com)

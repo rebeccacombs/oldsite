@@ -130,12 +130,17 @@ content:
   - title: Academic and Professional Honors
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ⋅⋅* Reviewer (ad hoc) for Briefings in Bioinformatics (Oxford University Press)
-      ⋅⋅* Top 1% PSAT (Oct 2019), US College Board
-      ⋅⋅* 2nd Place overall (Mar 2020), NE Regional FIRST Robotics Competition
-      ⋅⋅* Xerox Creativity Award (Mar 2020), NE Regional FIRST Robotics Competition 
-      ⋅⋅* Honorable Mention (Jul 2020), NCWIT Award for Inspirations in Computing
-      ⋅⋅* Old Girls Association Literary Prize (Jun 2017), Miss Edgar's & Cramp's School For Girls 
+      Reviewer (ad hoc) for Briefings in Bioinformatics (Oxford University Press)
+      
+      Top 1% PSAT (Oct 2019), US College Board
+      
+      2nd Place overall (Mar 2020), NE Regional FIRST Robotics Competition
+      
+      Xerox Creativity Award (Mar 2020), NE Regional FIRST Robotics Competition 
+      
+      Honorable Mention (Jul 2020), NCWIT Award for Inspirations in Computing
+      
+      Old Girls Association Literary Prize (Jun 2017), Miss Edgar's & Cramp's School For Girls 
 
   - title: Hobbies
     layout: text

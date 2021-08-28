@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Rebecca Combs
-title: Duke CS Major
+title: Duke/DKU CS Major
 email: rdc47@duke.edu
 
 # Dark Mode (true/false/never)
@@ -21,7 +21,7 @@ linkedin_username: rebecca-combs-b347211b5
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Duke Universtiy undergraduate. Computer science and biology researcher. Community volunteer. Amateur sailor and musician.
+  Duke Universtiy and Duke Kunshan University undergraduate. Computer science and biology researcher. Community volunteer. Amateur sailor and musician.
 
 content:
   - title: Education # Title for the section
@@ -78,6 +78,12 @@ content:
            Picower Institute for Learning and Memory, Massachusetts Institute of Technology (MIT). 
         description: | # this will include new lines to allow paragraphs
             Applied HTML and python graphical user interfaces (GUIs) to develop [digital oscillator](/content/americanFlagOscillator.mp4). Web based app can be used for [human memory color analysis](https://en.wikipedia.org/wiki/Memory_color_effect).  
+            <details> 
+            <summary><font size="3"><mark> ↓ Oscillator Application Report</mark></font></summary>
+            <br>
+            <img src="/images/MITMemoryColorOscillatorApp.png">
+            
+            </details> 
 
   - title: Biology Research # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,7 +97,7 @@ content:
         quote: >
            Cambridge, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
-            Applied PCR to A.victoria jellyfish blue fluorescent protein ([BFP](https://www.nature.com/articles/nbt1264)) cDNA for site-directed mutagenesis (Y66H). Modification turned BFP to green fluorescent protein ([GFP](https://en.wikipedia.org/wiki/Green_fluorescent_protein)). Performed bacteria transformation, gel electrophoresis (agarose and PAGE), chemiluminescence, and spectrophotometry. Used for cell visualization. 
+            Applied [PCR](https://en.wikipedia.org/wiki/Polymerase_chain_reaction) to A.victoria jellyfish blue fluorescent protein ([BFP](https://www.nature.com/articles/nbt1264)) cDNA for site-directed mutagenesis (Y66H). Modification turned BFP to green fluorescent protein ([GFP](https://en.wikipedia.org/wiki/Green_fluorescent_protein)). Performed bacteria transformation, gel electrophoresis ([agarose](https://en.wikipedia.org/wiki/Agarose_gel_electrophoresis) and [PAGE](https://en.wikipedia.org/wiki/Polyacrylamide_gel_electrophoresis)), [chemiluminescence](https://en.wikipedia.org/wiki/Chemiluminescence), and [spectrophotometry](https://en.wikipedia.org/wiki/Spectrophotometry). Used for cell visualization. 
             
             Lab Director: [Dr. Alazar Ayele](https://www.linkedin.com/in/alazar-ayele-10627952)
             <br>
@@ -104,8 +110,6 @@ content:
             <img src="/images/front.png" width="420">
             <img src="/images/labWork.png" width="420">
             <img src="/images/moreLabWork.png" width="420">
-
-            
             </details>          
  
       - layout: left
@@ -117,8 +121,15 @@ content:
         quote: >
            Cambridge, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
-            Applied PCR to S.cerevisiae yeast DNA. Identified colonies with β-carotene producing gene (crtYB). Applied restriction digest and gel electrophoresis. Used to identify yeast culture that fortifies bread with Vitamin A. 
-            Lab Director: Dr. Vivek Bajaj 
+            Applied PCR to [S.cerevisiae yeast DNA](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae). Identified colonies with β-carotene producing gene ([crtYB](https://pubmed.ncbi.nlm.nih.gov/24486200/)). Applied restriction digest and gel electrophoresis. Used to identify yeast culture that fortifies bread with Vitamin A. 
+            
+            Lab Director: [Dr. Vivek Bajaj](https://biobuilder.org/member/vivek-bajaj-learning-lab-teaching-fellow/)
+            <br>
+            <details> 
+            <summary><font size="3"><mark> ↓ Presentation for Procedure/Findings</mark></font></summary>
+            <br>
+            <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxyVjDDw-voGULE0tvquQTzHau_wtrzl35fMpbC0q6zldMWi_sNnYEMvUTOiCob_9w2bqkrU-_SVOi/embed?start=false&loop=false&delayms=3000" frameborder="0" width="850" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            </details> 
 
   - title: Community Service # Title for the section
     layout: list # Type of content section (list/text)

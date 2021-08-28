@@ -59,11 +59,11 @@ content:
             Developed [notebook](https://github.com/rebeccacombs/velocity_preprocessing/blob/main/velocity_preprocessing.ipynb) for RNA-velocity data preparation/configuration on singlecellvr.com (can be viewed [here](https://github.com/pinellolab/singlecellvr/blob/master/supp_notebooks/ipynb_files/Supplementary_Notebook_4.ipynb) on the singlecellvr repository). 
             
             <u>Article under review</u> Stein, D., Chen, H., Vinyard, M., Qin, Q., Combs, R.D., Zhang, Q., Pinello, L. SinglecellVR: interactive visualization of single-cell data in virtual reality *(Computational Genomics, [Frontiers in Bioinformatics](https://www.frontiersin.org/journals/bioinformatics))*.
-            <b></b>
+            <br>
             <details> 
             <summary><font size="3"><mark> ↓ Kowalczyk Dataset Findings</mark></font></summary>
-            <b></b>
-            <font size="2">Click <a href="/images/pinelloLabPoster.png">here</a> for full-sized image.</font>
+            <br>
+            <font size="3">Click <a href="/images/pinelloLabPoster.png">here</a> for full-sized image.</font>
             <img src="/images/PinelloLabPoster.jpg" alt="kowalczykDatasetFindings">
             
             </details> 
@@ -92,6 +92,7 @@ content:
            Located in Cambridge, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
             Applied PCR to A.victoria jellyfish blue fluorescent protein (BFP) cDNA for site-directed mutagenesis (Y66H). Modification turned BFP to green fluorescent protein (GFP). Performed bacteria transformation, gel electrophoresis (agarose and PAGE), chemiluminescence, and spectrophotometry. Used for cell visualization. 
+            
             Lab Director: Dr. Alazar Ayele          
  
       - layout: left

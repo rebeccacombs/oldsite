@@ -108,6 +108,9 @@ content:
            Located in Cambridge, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
             Organized symposia (Science Cafés) for Boston area teens. Delivered opening remarks.
+        collapsible: View more 
+        content: | 
+            Here is where you can view more. 
 
   - title: Leadership Positions # Title for the section
     layout: list # Type of content section (list/text)
@@ -145,7 +148,9 @@ content:
   - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Music (voice, guitar, piano) and sailing (Winsor Varsity Team)
+      Music (voice, guitar, piano)
+      
+      Sailing (Winsor Varsity Team, Community Boating Inc)
 
 # Footer
 footer_show_references: true

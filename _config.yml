@@ -34,7 +34,7 @@ content:
         quote: >
           All girls' private school located on 103 Pilgrim Road, Boston, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
-          Completed courses: Introduction to Engineering and Design I, II, and Object Oriented Programming in C#.
+          *Completed courses*: Introduction to Engineering and Design I, II, and Object Oriented Programming in C#.
 
       - layout: left
         title: Belmont High School
@@ -55,8 +55,19 @@ content:
         quote: >
            Located at Massachusetts General Hospital (MGH) Cancer Center, Harvard University. 
         description: | # this will include new lines to allow paragraphs
-            Applied python (pandas) in Jupyter Notebooks, for STREAM analysis of hematopoietic scRNA-seq data. Prepared dataset uploaded to singlecellvr.com 'Kowalczyk et al C57_LTHSC - STREAM - scRNA-seq' in GitHub.  Article under review; Stein, D., Chen, H., Vinyard, M., Qin, Q., Combs, R.D., Zhang, Q., Pinello, L. SinglecellVR: interactive visualization of single-cell data in virtual reality (Computational Genomics, Frontiers in Genetics).
-      
+            Applied python (pandas) in Jupyter Notebooks, for STREAM analysis of hematopoietic scRNA-seq data. Prepared dataset uploaded to [singlecellvr.com](https://singlecellvr.pinellolab.partners.org/) 'kowalczyk2015-stream"' in GitHub. 
+            Developed [notebook](https://github.com/rebeccacombs/velocity_preprocessing/blob/main/velocity_preprocessing.ipynb) for RNA-velocity data preparation/configuration on singlecellvr.com (can be viewed [here](https://github.com/pinellolab/singlecellvr/blob/master/supp_notebooks/ipynb_files/Supplementary_Notebook_4.ipynb) on the singlecellvr repository). 
+            
+            <u>Article under review</u> Stein, D., Chen, H., Vinyard, M., Qin, Q., Combs, R.D., Zhang, Q., Pinello, L. SinglecellVR: interactive visualization of single-cell data in virtual reality *(Computational Genomics, [Frontiers in Bioinformatics](https://www.frontiersin.org/journals/bioinformatics))*.
+           
+
+            <details> 
+            <summary><font size="3"><mark> ↓ Kowalczyk Dataset Findings</mark></font></summary>
+
+            <img src="/images/PinelloLabPoster.jpg" alt="kowalczykDatasetFindings">
+            
+            </details> 
+
       - layout: left
         title: Nancy Kanwisher Lab
         link: https://mcgovern.mit.edu/profile/nancy-kanwisher/
@@ -66,8 +77,8 @@ content:
         quote: >
            Located at the Picower Institute for Learning and Memory, Massachusetts Institute of Technology (MIT). 
         description: | # this will include new lines to allow paragraphs
-            Applied HTML and python graphical user interfaces (GUIs) to develop digital oscillator. Web based app can be used for human color memory analysis.
-  
+            Applied HTML and python graphical user interfaces (GUIs) to develop [digital oscillator](/content/americanFlagOscillator.mp4). Web based app can be used for [human memory color analysis](https://en.wikipedia.org/wiki/Memory_color_effect).  
+
   - title: Biology Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -108,9 +119,6 @@ content:
            Located in Cambridge, Massachusetts. 
         description: | # this will include new lines to allow paragraphs
             Organized symposia (Science Cafés) for Boston area teens. Delivered opening remarks.
-        collapsible: View more 
-        content: | 
-            Here is where you can view more. 
 
   - title: Leadership Positions # Title for the section
     layout: list # Type of content section (list/text)

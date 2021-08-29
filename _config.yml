@@ -203,14 +203,14 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       <ul> 
-      <li><font size="3">Ballet <a href="https://placedesarts.com/en">Place Des Artes</a>, Montreal CA)
+      <li><font size="3">Ballet <a href="https://placedesarts.com/en">Place Des Artes</a>, Montreal CA)</font></li>
       <li><font size="3">Music (Belmont High School Women's Chorale, guitar, piano)</font></li> 
       <li><font size="3">Sailing (<a href="images/winsorSailing.jpg">Winsor Varsity Team</a>, Belmont High School Varsity Team, <a href="https://youtu.be/qJYHLgyvJc4">Community Boating Inc</a>)</font></li>
       </ul> 
 
 # Footer
 footer_show_references: true
-references_title: Made with jekyll - All Rights Reserved.
+references_title: made with jekyll - All Rights Reserved.
 
 # Build settings
 #theme: modern-resume-theme 

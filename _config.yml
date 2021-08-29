@@ -155,14 +155,26 @@ content:
             </ul>
             </details> 
 
-  - title: Leadership Positions # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Leadership Positions
+    layout: list
     content:
       - layout: top-middle
         title: "FIRST Robotics Competition Club Team #6731"
         sub_title: Team Captain
-        caption: 2019 - 2020 
+        caption: September 2019 - May 2020
+        description: |
+          <br> 
+          Appointed co-captain of Belmont MA's robotics team, Record Robotics. From 2017-2021, worked with teammates and mentors to compete at the annual [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc), developed and managed our [old web-page](http://recordrobotics.org/) and organized outreach events at local elementary schools, the public library, and the MIT Museum. Pitched before Nobel Laureate [Sir James Fraser Stoddart](https://en.wikipedia.org/wiki/Fraser_Stoddart) to solicit financial support for the coming robotics season, leading to a $10,000 donation.
+           <details> 
+           <summary><font size="3"><mark> ↓ Slideshow and News Segment</mark></font></summary> 
+           <br> 
+           <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeHKbyMLexKHSvoGGCsZ_mJIMsUXamge9zPS3pfC42vD_LwTE5Si3X7hFTjKPeqGYo-VE3vWo6ne3T/embed?start=false&loop=false&delayms=3000"
+           frameborder="0" width="560" height="350" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+           <iframe src="https://videoplayer.telvue.com/player/uClcIN88BHKHJoveFoaVN_8_5Tg72P0o/media/577764?autostart=false&showtabssearch=true&fullscreen=true&fbclid=IwAR24YKt0YZI_zS7XExoTwOSC9uAbLrtdThj113NU3XgLIoZLM9ukkJMwti4&jwsource=cl" 
+           width="560" height="370" allowfullscreen="true" frameborder="0" allow="autoplay; fullscreen"></iframe>
+           </details>
 
+  
       - layout: top-middle
         title: "MIT Museum"
         sub_title: Teen Programming Council Member

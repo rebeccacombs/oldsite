@@ -53,7 +53,7 @@ content:
         sub_title: Data Science Intern
         caption: June 2020 - Present
         quote: >
-           Massachusetts General Hospital (MGH) Cancer Center, Harvard University 
+           Massachusetts General Hospital (MGH) Cancer Center, Harvard Medical School 
         description: | # this will include new lines to allow paragraphs
             Applied python (pandas) in Jupyter Notebooks, for STREAM analysis of hematopoietic scRNA-seq data. Prepared dataset uploaded to [singlecellvr.com](https://singlecellvr.pinellolab.partners.org/) 'kowalczyk2015-stream"' in GitHub. 
             Developed [notebook](https://github.com/rebeccacombs/velocity_preprocessing/blob/main/velocity_preprocessing.ipynb) for RNA-velocity data preparation/configuration on singlecellvr.com (can be viewed [here](https://github.com/pinellolab/singlecellvr/blob/master/supp_notebooks/ipynb_files/Supplementary_Notebook_4.ipynb) on the singlecellvr repository). 

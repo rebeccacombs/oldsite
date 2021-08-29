@@ -185,7 +185,7 @@ content:
   - title: Computer Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Github, Python, Java, C#, HTML, R, Flask, STREAM, Jupyter Notebooks, Excel/Google Sheets. 
+      Python, Java, C#, HTML, CSS, R, Git, Bash, SHELL, Linux, Flask, STREAM, LaTeX, Jupyter Notebooks, Excel/Google Sheets. 
 
   - title: Academic and Professional Honors
     layout: text

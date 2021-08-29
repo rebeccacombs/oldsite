@@ -17,6 +17,11 @@ darkmode: never
 github_username:  rebeccacombs
 linkedin_username: rebecca-combs-b347211b5
 
+additional_links:
+- title: Stack Overflow
+  icon: fab fa-stack-overflow
+  url: https://stackoverflow.com/users/15087114/rdc
+
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg

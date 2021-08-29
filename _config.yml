@@ -191,26 +191,26 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       <ul> 
-      <li><font size="3">Reviewer (ad hoc) for Briefings in Bioinformatics (Oxford University Press)</font></li>
+      <li><font size="3">Reviewer (ad hoc) for <a href="https://en.wikipedia.org/wiki/Briefings_in_Bioinformatics">Briefings in Bioinformatics</a> (Oxford University Press)</font></li>
       <li><font size="3">Top 1% PSAT, US College Board</font></li>
-      <li><font size="3">2nd Place overall, NE Regional FIRST Robotics Competition</font></li>
-      <li><font size="3">Xerox Creativity Award, NE Regional FIRST Robotics Competition</font></li>
-      <li><font size="3">Honorable Mention, NCWIT Award for Inspirations in Computing</font></li>
-      <li><font size="3">Old Girls Association Literary Prize, Miss Edgar's & Cramp's School for Girls</font></li>
+      <li><font size="3">District Event Finalist, <a href="https://www.thebluealliance.com/team/6731/2020">NE Regional FIRST Robotics Competition</a></font></li>
+      <li><font size="3">Xerox Creativity Award, <a href="https://www.thebluealliance.com/team/6731/2020">NE Regional FIRST Robotics Competition</a></font></li>
+      <li><font size="3">Honorable Mention, <a href="https://ncwit.org/">NCWIT Award for Inspirations in Computing</a></font></li>
+      <li><font size="3">Old Girls Association Literary Prize, <a href="https://www.ecs.qc.ca/">Miss Edgar's & Cramp's School for Girls</a></font></li>
       </ul> 
 
   - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
       <ul> 
-      <li><font size="3">Ballet (Place Des Artes, Montreal CA)
+      <li><font size="3">Ballet <a href="https://placedesarts.com/en">Place Des Artes</a>, Montreal CA)
       <li><font size="3">Music (Belmont High School Women's Chorale, guitar, piano)</font></li> 
-      <li><font size="3">Sailing (Winsor Varsity Team, Belmont High School Varsity Team, Community Boating Inc)</font></li>
+      <li><font size="3">Sailing (<a href="images/winsorSailing.jpg">Winsor Varsity Team</a>, Belmont High School Varsity Team, <a href="https://youtu.be/qJYHLgyvJc4">Community Boating Inc</a>)</font></li>
       </ul> 
 
 # Footer
 footer_show_references: true
-references_title: All Rights Reserved.
+references_title: Made with jekyll - All Rights Reserved.
 
 # Build settings
 #theme: modern-resume-theme 

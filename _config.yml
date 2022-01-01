@@ -24,7 +24,7 @@ additional_links:
 
 - title: One Page CV
   icon: far fa-file-alt
-  url: https://drive.google.com/file/d/12453uhuj9KuAXAzCZonafDL6Ke0Jz0V3/view?usp=sharing
+  url: https://drive.google.com/file/d/1WRTzRrvtfJQeR-iPDq3MLYaJDTn-_Zma/view?usp=sharing
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -40,8 +40,7 @@ content:
         title: Duke University 
         caption: 2021 - Present
         sub_title: "Cumulative GPA 3.9/4.0"
-        quote: >
-          Durham, North Carolina 
+        quote: Durham, North Carolina 
         description: | # this will include new lines to allow paragraphs
           *Completed courses*: Data Structures and Algorithms in Java, Intro to Data Science. 
       
@@ -76,7 +75,7 @@ content:
             Applied python (pandas) in Jupyter Notebooks, for STREAM analysis of hematopoietic scRNA-seq data. Prepared dataset uploaded to [singlecellvr.com](https://singlecellvr.pinellolab.partners.org/) 'kowalczyk2015-stream"' in GitHub. 
             Developed [notebook](https://github.com/rebeccacombs/velocity_preprocessing/blob/main/velocity_preprocessing.ipynb) for RNA-velocity data preparation/configuration on singlecellvr.com (can be viewed [here](https://github.com/pinellolab/singlecellvr/blob/master/supp_notebooks/ipynb_files/Supplementary_Notebook_4.ipynb) on the singlecellvr repository). 
             
-            [Publication](https://www.frontiersin.org/articles/10.3389/fgene.2021.764170/abstract): <i>Stein, D., Chen, H., Vinyard, M., Qin, Q., Combs, R.D., Zhang, Q., Pinello, L.</i> SinglecellVR: interactive visualization of single-cell data in virtual reality ([Frontiers in Genetics](https://www.frontiersin.org/journals/genetics)).
+            [Publication](https://www.frontiersin.org/articles/10.3389/fgene.2021.764170/full): <i>Stein, D., Chen, H., Vinyard, M., Qin, Q., Combs, R.D., Zhang, Q., Pinello, L.</i> SinglecellVR: interactive visualization of single-cell data in virtual reality ([Frontiers in Genetics](https://www.frontiersin.org/journals/genetics)).
             <br>
             <details> 
             <summary><font size="3"><mark> ↓ Kowalczyk Dataset Findings</mark></font></summary>

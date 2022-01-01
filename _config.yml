@@ -30,18 +30,27 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Duke Universtiy and Duke Kunshan University undergraduate. Computer science and biology researcher. Community volunteer. Amateur sailor and musician.
+  Seeking hands-on experience with various tools and programming languages in the field of software development ideally, work closely with managers and mentors to evaluate requirements, estimate costs, as well as create and implement features and services. Looking to fill program manager and software engineer roles.   
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Duke University 
+        caption: 2021 - Present
+        sub_title: "Cumulative GPA 3.9/4.0"
+        quote: >
+          Durham, North Carolina 
+        description: | # this will include new lines to allow paragraphs
+          *Completed courses*: Data Structures and Algorithms in Java, Intro to Data Science. 
+      
+      - layout: left
         title: The Winsor School
         caption: 2019 - 2021
         sub_title: "Cumulative GPA 3.9/4.0"
         quote: >
-          103 Pilgrim Road, Boston, Massachusetts 
+          Boston, Massachusetts 
         description: | # this will include new lines to allow paragraphs
           *Completed courses*: Introduction to Engineering and Design I, II, and Object Oriented Programming in C#.
 
@@ -50,7 +59,7 @@ content:
         caption: 2017 - 2019
         sub_title: "Cumulative GPA 4.0/4.0"
         quote: >
-         221 Concord Avenue, Belmont, Massachusetts
+         Belmont, Massachusetts
 
   - title: Computer Science Research # Title for the section
     layout: list # Type of content section (list/text)
@@ -194,13 +203,14 @@ content:
   - title: Computer Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Python, Java, C#, HTML, CSS, R, Git, Bash, SHELL, Linux, Flask, STREAM, LaTeX, Jupyter Notebooks, Excel/Google Sheets. 
+      Python, Java, C#, HTML, CSS, Next.js, React, R, Git, Bash, SHELL, Linux, Flask, STREAM, LaTeX, Jupyter Notebooks, Excel/Google Sheets. 
 
   - title: Academic and Professional Honors
     layout: text
     content: | # this will include new lines to allow paragraphs
       <ul> 
       <li><font size="3">Reviewer (ad hoc) for <a href="https://en.wikipedia.org/wiki/Briefings_in_Bioinformatics">Briefings in Bioinformatics</a> (Oxford University Press)</font></li>
+      <li><font size="3"><a href="https://devpost.com/software/vivlio">HackDuke2021</a> participant</font></li>
       <li><font size="3">Top 1% PSAT, US College Board</font></li>
       <li><font size="3">District Event Finalist, <a href="https://www.thebluealliance.com/team/6731/2020">NE Regional FIRST Robotics Competition</a></font></li>
       <li><font size="3">Xerox Creativity Award, <a href="https://www.thebluealliance.com/team/6731/2020">NE Regional FIRST Robotics Competition</a></font></li>

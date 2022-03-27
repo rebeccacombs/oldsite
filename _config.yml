@@ -24,7 +24,7 @@ additional_links:
 
 - title: One Page CV
   icon: far fa-file-alt
-  url: https://drive.google.com/file/d/1WRTzRrvtfJQeR-iPDq3MLYaJDTn-_Zma/view?usp=sharing
+  url: https://drive.google.com/file/d/1AMGubCiGoENLnH0vH10HkBDkwe5ghlRc/view?usp=sharing
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -221,7 +221,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       <ul> 
-      <li><font size="3">Ballet <a href="https://placedesarts.com/en">Place Des Artes</a>, Montreal CA)</font></li>
+      <li><font size="3">Ballet (<a href="https://placedesarts.com/en">Place Des Artes</a>, Montreal CA)</font></li>
       <li><font size="3">Music (Belmont High School Women's Chorale, guitar, piano)</font></li> 
       <li><font size="3">Sailing (<a href="images/winsorSailing.jpg">Winsor Varsity Team</a>, Belmont High School Varsity Team, <a href="https://youtu.be/qJYHLgyvJc4">Community Boating Inc</a>)</font></li>
       </ul> 

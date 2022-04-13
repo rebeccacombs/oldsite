@@ -24,7 +24,7 @@ additional_links:
 
 - title: One Page CV
   icon: far fa-file-alt
-  url: https://drive.google.com/file/d/1AMGubCiGoENLnH0vH10HkBDkwe5ghlRc/view?usp=sharing
+  url: https://drive.google.com/file/d/1sGDxkp75IdaUGiIQjRnEE3mlxf4dIIZf/view?usp=sharing
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -208,6 +208,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       <ul> 
+      <li><font size="3">Best Visualization Award at <a href="https://www2.stat.duke.edu/datafest/">Duke DataFest</a> (Apr 2022); view project at <a href="https://www.fishswish.net/">fishswish.net</a></font></li>
       <li><font size="3">Reviewer (ad hoc) for <a href="https://en.wikipedia.org/wiki/Briefings_in_Bioinformatics">Briefings in Bioinformatics</a> (Oxford University Press)</font></li>
       <li><font size="3"><a href="https://devpost.com/software/vivlio">HackDuke2021</a> participant</font></li>
       <li><font size="3">Top 1% PSAT, US College Board</font></li>

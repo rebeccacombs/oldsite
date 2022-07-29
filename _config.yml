@@ -15,7 +15,7 @@ darkmode: never
 
 # Social links
 github_username:  rebeccacombs
-linkedin_username: rebecca-combs-b347211b5
+linkedin_username: rebecca-dcombs
 
 additional_links:
 - title: Stack Overflow
@@ -42,7 +42,7 @@ content:
         sub_title: "Cumulative GPA 3.9/4.0"
         quote: Durham, North Carolina 
         description: | # this will include new lines to allow paragraphs
-          *Completed courses*: Data Structures and Algorithms in Java, Intro to Data Science. 
+          *Completed courses*: Data Structures and Algorithms in Java, Intro to Data Science, Intro to Computer Systems, Discrete Mathmatics for Computer Science. 
       
       - layout: left
         title: The Winsor School

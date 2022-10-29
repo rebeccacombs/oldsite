@@ -24,13 +24,13 @@ additional_links:
 
 - title: One Page CV
   icon: far fa-file-alt
-  url: https://drive.google.com/file/d/1sGDxkp75IdaUGiIQjRnEE3mlxf4dIIZf/view?usp=sharing
+  url: https://drive.google.com/file/d/1vjdr0_HxghOUuAayb3RhUiyeO4YyZStl/view?usp=sharing
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Seeking hands-on experience with various tools and programming languages in the field of software development ideally, work closely with managers and mentors to evaluate requirements, estimate costs, as well as create and implement features and services. Looking to fill program manager and software engineer roles.   
+  Seeking hands-on experience with various tools and programming languages in the field of software development ideally, work closely with managers and mentors to evaluate requirements, estimate costs, as well as create and implement features and services. Looking to fill software engineering roles, with an interest in program management. 
 
 content:
   - title: Education # Title for the section
@@ -206,6 +206,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       <ul> 
+      <li><font size="3">DKU Innovation Incubator Finalists (Oct 2022); view project at <a href="https://pulse-olive.vercel.app/">pulse-olive.vercel.app</a></font></li>
       <li><font size="3"><a href="https://www2.stat.duke.edu/datafest/winners.html">Best Visualization Award</a> at Duke DataFest (Apr 2022); view project at <a href="https://www.fishswish.net/">fishswish.net</a></font></li>
       <li><font size="3">Reviewer (ad hoc) for <a href="https://en.wikipedia.org/wiki/Briefings_in_Bioinformatics">Briefings in Bioinformatics</a> (Oxford University Press)</font></li>
       <li><font size="3"><a href="https://devpost.com/software/vivlio">HackDuke2021</a> participant</font></li>
